@@ -14,3 +14,6 @@ Laravel環境構築
 ・PHP8.0
 ・My SQL
 ・macOS
+
+##URL
+http://localhost/register
